@@ -1,5 +1,5 @@
 # hse_hw2
-Коллаб 1: https://colab.research.google.com/drive/1Pi1a-XB4dVmvO__MLGelM7Kh34aPLoEg#scrollTo=FaTs183wd0z6
+Коллаб 1: https://colab.research.google.com/drive/1Pi1a-XB4dVmvO__MLGelM7Kh34aPLoEg#scrollTo=FaTs183wd0z6 //
 Коллаб 2: https://colab.research.google.com/drive/1MWIloPAkCal_6mvcii32H13rKkN3bDgF#scrollTo=UykENPFgyIQu
 
 Всего предсказано генов - 3565
